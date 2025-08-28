@@ -68,8 +68,24 @@ npm install
 3. Start the frontend:
 
 ```bash
-npm start
+npm run dev
 ```
 
 > The frontend will run on: `http://localhost:3000`
+
+
+## Tech Stack
+
+
+### For backend
+- Python 
+- FastAPI
+- PennyLane library
+- VQE (Variational Quantum Eigensolver)
+- Gemini API
+
+
+### For backend
+- Nextjs (app)
+- Typescript 
 
