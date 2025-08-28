@@ -4,3 +4,4 @@ pydantic
 pennylane
 numpy
 google-genai
+python-dotenv
